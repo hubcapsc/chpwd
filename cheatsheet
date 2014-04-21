@@ -24,4 +24,6 @@ Then I was able to push my files up to github...
 
   git push origin master
 
-I am editing this on branch_test_1
+I am editing this on branch_test_1 at github with the web interface
+
+I am editing this on branch_test_1 on bleedingedge with vim
